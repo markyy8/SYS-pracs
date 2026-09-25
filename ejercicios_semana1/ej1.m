@@ -18,3 +18,5 @@ q = log10(10^(-5));
 r = log2(10);
 s = log2(64);
 t = sqrt((3^2)+(4^2));
+
+fprintf("hola")
